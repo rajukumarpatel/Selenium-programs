@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Globalbank by packages]">
+  <test name="TestScripts(failed)">
+    <classes>
+      <class name="TestScripts.TC1">
+        <methods>
+          <include name="AdminLogin"/>
+        </methods>
+      </class> <!-- TestScripts.TC1 -->
+      <class name="TestScripts.TC2">
+        <methods>
+          <include name="VerifyBranchCreation"/>
+        </methods>
+      </class> <!-- TestScripts.TC2 -->
+    </classes>
+  </test> <!-- TestScripts(failed) -->
+</suite> <!-- Failed suite [Globalbank by packages] -->
