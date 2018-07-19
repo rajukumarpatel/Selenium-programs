@@ -1,0 +1,15 @@
+<suite name="OrangeHrm" parallel="tests">
+<test name="Crossbrowsingtesting">
+<classes>
+<class name="CBTesting.CrooBrowserTesting"/>
+<parameter name="browser" value="firefox"></parameter>
+ </classes>
+</test>
+<test name="CrossBT">
+<classes>
+<class name="CBTesting.CrooBrowserTesting"/>
+ <parameter name="browser" value="chrome"></parameter>
+</classes>
+</test>
+
+</suite>

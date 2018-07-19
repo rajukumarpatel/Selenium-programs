@@ -1,0 +1,9 @@
+<suite name = "Automation">
+<test name = "Re Testing">
+<classes>
+<class name = "TestScipt.Test1"/>
+<class name = "TestScipt.Test2"/>
+</classes>
+</test>
+</suite>
+

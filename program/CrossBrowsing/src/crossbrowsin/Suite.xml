@@ -1,0 +1,16 @@
+
+<suite name="Suite" parallel="tests">
+  <test name="firefoxTest">
+   <classes>
+   <class name="crossbrowsin.CBtesting"/>
+   <parameter name="browser" value="firefox"/>
+   </classes>
+  </test> 
+  
+  <test name="chromeTest">
+   <classes>
+   <class name="crossbrowsin.CBtesting"/>
+   <parameter name="browser" value="chrome"/>
+   </classes>
+  </test> 
+</suite> 

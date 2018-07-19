@@ -1,0 +1,12 @@
+<suite name="Re-testing">
+<test name="OrangHrm Admin Login">
+<packages>
+
+<package name="TestScripts"/>
+
+</packages>
+
+</test>
+
+
+</suite>

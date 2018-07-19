@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeHrm]" parallel="tests">
+  <parameter name="browser" value="chrome"/>
+  <test name="CrossBT(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="CBTesting.CrooBrowserTesting">
+        <methods>
+          <include name="openapp" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- CBTesting.CrooBrowserTesting -->
+    </classes>
+  </test> <!-- CrossBT(failed) -->
+</suite> <!-- Failed suite [OrangeHrm] -->

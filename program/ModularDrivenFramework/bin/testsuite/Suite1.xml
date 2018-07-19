@@ -1,0 +1,8 @@
+<suite name="OrangHRM">
+<test name="Re-Testing">
+ <packages>
+ <package />
+  </packages>
+
+</test>
+</suite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Re-testing]">
+  <test name="OrangHrm Admin Login(failed)">
+    <classes>
+      <class name="TestScripts.TC1_OrangHrmAdminlogin">
+        <methods>
+          <include name="Admin_login"/>
+        </methods>
+      </class> <!-- TestScripts.TC1_OrangHrmAdminlogin -->
+    </classes>
+  </test> <!-- OrangHrm Admin Login(failed) -->
+</suite> <!-- Failed suite [Re-testing] -->

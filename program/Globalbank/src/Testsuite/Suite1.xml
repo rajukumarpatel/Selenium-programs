@@ -1,0 +1,14 @@
+<suite name="Suite1">
+<test name="Test">
+<package>
+
+<package>
+
+<package name="TestScripts"></package>
+
+
+</package>
+
+</package>
+</test>
+</suite>

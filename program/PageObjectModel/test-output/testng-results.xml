@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16470" started-at="2018-06-17T17:44:16Z" finished-at="2018-06-17T17:44:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16470" started-at="2018-06-17T17:44:16Z" finished-at="2018-06-17T17:44:33Z">
+      <class name="POM.Tc1">
+        <test-method status="PASS" signature="openTheBrowser()[pri:0, instance:POM.Tc1@a1cdc6d]" name="openTheBrowser" is-config="true" duration-ms="5832" started-at="2018-06-17T10:44:16Z" finished-at="2018-06-17T10:44:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openTheBrowser -->
+        <test-method status="PASS" signature="orghrmlogin()[pri:0, instance:POM.Tc1@a1cdc6d]" name="orghrmlogin" duration-ms="5255" started-at="2018-06-17T10:44:22Z" finished-at="2018-06-17T10:44:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orghrmlogin -->
+        <test-method status="PASS" signature="closeTheBrowser()[pri:0, instance:POM.Tc1@a1cdc6d]" name="closeTheBrowser" is-config="true" duration-ms="5364" started-at="2018-06-17T10:44:27Z" finished-at="2018-06-17T10:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+      </class> <!-- POM.Tc1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

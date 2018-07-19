@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18331" started-at="2018-06-26T17:40:20Z" finished-at="2018-06-26T17:40:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18331" started-at="2018-06-26T17:40:20Z" finished-at="2018-06-26T17:40:39Z">
+      <class name="testcase.TCase">
+        <test-method status="PASS" signature="checkvalid()[pri:0, instance:testcase.TCase@2344fc66]" name="checkvalid" duration-ms="18303" started-at="2018-06-26T10:40:20Z" finished-at="2018-06-26T10:40:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkvalid -->
+      </class> <!-- testcase.TCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

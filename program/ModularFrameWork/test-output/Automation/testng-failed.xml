@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation]">
+  <test name="Re Testing(failed)">
+    <classes>
+      <class name="TestScipt.Test1">
+        <methods>
+          <include name="verifyAdmin"/>
+        </methods>
+      </class> <!-- TestScipt.Test1 -->
+      <class name="TestScipt.Test2">
+        <methods>
+          <include name="Addemp"/>
+        </methods>
+      </class> <!-- TestScipt.Test2 -->
+    </classes>
+  </test> <!-- Re Testing(failed) -->
+</suite> <!-- Failed suite [Automation] -->
